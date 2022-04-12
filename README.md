@@ -1,1 +1,2 @@
-# -Unit3-02-PHP-VolumeTriangularPyramid
+# Unit3-02-PHP-VolumeTriangularPyramid
+[![GitHub's Super Linter](https://github.com/ICS20-Programming-Grace-S/Unit3-02-PHP-VolumeTriangularPyramid/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-Grace-S/Unit3-02-PHP-VolumeTriangularPyramid/actions)
